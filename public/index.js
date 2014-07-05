@@ -162,18 +162,6 @@ pulse.ready(function() {
         }, 1000);
       }
     }
-
-    /*
-    if(rolling[0] < -0.5 && rolling[1] < -0.5 && rolling[2] < -0.5) {
-      if(!impulseLeft) {
-        impulseLeft = true;
-        circle._physics.body.ApplyImpulse(new Box2D.Common.Math.b2Vec2(-0.3, 0), circle._physics.body.GetPosition());
-        setTimeout(function() {
-          impulseLeft = false;
-        }, 1000);
-      }
-    }
-    */
     
   });
 });
