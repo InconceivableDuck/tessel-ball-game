@@ -1,0 +1,17 @@
+{
+  "name": "tessel-ball-game",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "accel-mma84": "^0.2.3",
+    "express": "^4.5.0",
+    "socket.io": "^1.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "tessel run accelerometer.js | node app.js"
+  },
+  "author": "Brandon Cannaday <brandon@modulus.io>",
+  "license": "MIT"
+}
