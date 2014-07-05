@@ -11,3 +11,5 @@ Hold the Tessel by the USB adapter and tilt it in the direction you'd like it to
 $ npm install
 $ npm start
 ```
+
+Browse to localhost:3000 to play the game.
