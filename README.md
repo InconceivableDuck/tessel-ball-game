@@ -13,3 +13,5 @@ $ npm start
 ```
 
 Browse to localhost:3000 to play the game.
+
+![Screenshot](screenshot.png)
